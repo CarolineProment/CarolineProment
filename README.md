@@ -2,10 +2,10 @@
 - 👀 I’m interested in Front End and Web Design
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 <div>
-  <a href="https://github.com/CarolineProment/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CarolineProment&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
   </a>
-  <a href="https://github.com/CarolineProment/convoychat">
+  <a href="https://github.com/anuraghazra/convoychat">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineProment&theme=nightowl&layout=compact&hide_border=true">
   </a>
 </div><br>
